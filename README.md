@@ -7,7 +7,7 @@ This will increase the buffer size from the default 1MiB to 5MiB.
 
 To revert this value to the default, use:
 git config --global http.postBuffer 1000000
- 
+ x
 
 The Courses
 ==============================
